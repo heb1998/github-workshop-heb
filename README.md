@@ -1,6 +1,10 @@
+# Welcome to my repository
+
+Authors: Xingang He
+
 ---
 title: "README.md"
-author: "XIngang He"
+author: "Xingang He"
 date: "9/2/2020"
 output: pdf_document
 ---
